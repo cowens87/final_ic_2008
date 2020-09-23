@@ -9,10 +9,10 @@ class CookBook
   end
 
   def ingredients
-    binding.pry
+
   end
-  
+
   def highest_calorie_meal
-    binding.pry
+  
   end
 end
